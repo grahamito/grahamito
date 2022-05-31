@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grahamito
-- 👀 I’m interested in new technologies, 
+- 👀 I’m interested in new technology, aviation, travel and languages
 - 🌱 I’m currently learning dart flutter, system architectures, Spanish, surfskating
 - 💞️ I’m looking to collaborate on flutter projects in Madrid, Spain 
 - 📫 How to reach me: in the hospital after my next surfskate injury.
